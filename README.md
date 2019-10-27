@@ -1,2 +1,2 @@
 # Java-Algorithm
-Solve Java Java Algorithms
+Solve Java Algorithms
